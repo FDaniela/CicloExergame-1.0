@@ -1180,7 +1180,7 @@ var util = {
 
     var pc, dc;
     try {
-      pc = new RTCPeerConnection(defaultConfig, {optional: [{RtcDataChannels: true}]});
+      pc = new RTCPeerConnection(defaultConfig);
     } catch (e) {
       data = false;
       audioVideo = false;
