@@ -21,21 +21,21 @@ Doze voluntários foram convidados para participar do experimento. A equipe de p
 
 ## Questionários Aplicados
 
- ![Q1V](/Imagem/v1.pdf)
+ ![Q1V](/Imagens/v1.pdf)
  
- ![Q1V](/Imagem/v2.pdf)
+ ![Q1V](/Imagens/v2.pdf)
  
  ---
 ## Resultados
 
 - Perfil dos voluntários
 
-![perfil](/Imagem/perfil.png)
+![perfil](/Imagens/perfil.png)
  
 - Repostas fechadas do questionário Q1 
 
-![f1](/Imagem/f1.png)
+![f1](/Imagens/f1.png)
 
 - Repostas fechadas do questionário Q2
   
-![f2](/Imagem/f2.png)
+![f2](/Imagens/f2.png)
