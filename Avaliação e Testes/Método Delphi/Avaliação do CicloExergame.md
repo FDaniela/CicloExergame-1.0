@@ -1,6 +1,6 @@
 # Avaliação do CicloExergame junto a especialistas
 ---
-![Teste](/Imagens/logo.jpeg)
+
 ## _Método Delphi_
 
 O método Delphi é uma técnica de previsão que envolve a coleta de opiniões de especialistas (16 juízes) e a utilização de rodadas de questionários estruturados para chegar a um consenso (definido nesse trabalho como superior a 80% ) sobre um determinado assunto. O método oferece uma maneira sistemática de coletar e sintetizar opiniões e pode ajudar a minimizar o impacto de opiniões enviesadas, geralmente envolve os seguintes passos:
