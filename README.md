@@ -26,3 +26,14 @@ O fisioterapeuta pode interagir com o jogo e o paciente de duas maneiras: no mod
 Ao final da sessão, a mesma tela é apresentada tanto para o paciente quanto para o fisioterapeuta. Ela exibe um gráfico que representa toda a evolução do desempenho cardiorrespiratório (batimentos cardíacos e oximetria) calculado durante a atividade. Esse gráfico proporciona uma avaliação clínica que pode ser armazenada e comparada com outras sessões gravadas, auxiliando na análise do progresso do paciente.
 
 ![telajogo](https://github.com/FDaniela/CicloExergame-1.0/assets/102395421/0a6c5f8f-6fa0-4ffb-b04c-a3ffaefc7cd0)
+
+### Produções
+
+1. Anais Conpeex 2022
+2. [Avaliação de um jogo digital para a telerreabilitação de pacientes](https://zenodo.org/record/7492216)
+3. A Serious Games and Game Elements Based Approach for Patient Telerehabilitation Contexts
+4. Distributed exergame with cycle ergometer for patient rehabilitation and engagement generation at telerehabilitation contexts
+5. Jogos Sérios e Elementos de Jogos na Promoção de Engajamento em Contextos de Telerreabilitação de Pacientes
+6. A Distributed Exergame for Telerehabilitation: An Engaging Alternative to Improve Patients’ Quality of Life
+7. Jogos Digitais e Engajamento na Reabilitação de Pacientes: Uma Revisão Sistemática da Literatura
+8. Exergame com Cicloergômetro para a Reabilitação de Pacientes em Tempos de COVID-19
