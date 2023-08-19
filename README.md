@@ -29,11 +29,12 @@ Ao final da sessão, a mesma tela é apresentada tanto para o paciente quanto pa
 
 ### Produções
 
-1. Anais Conpeex 2022
-2. [Avaliação de um jogo digital para a telerreabilitação de pacientes](https://zenodo.org/record/7492216)
-3. A Serious Games and Game Elements Based Approach for Patient Telerehabilitation Contexts
-4. Distributed exergame with cycle ergometer for patient rehabilitation and engagement generation at telerehabilitation contexts
-5. Jogos Sérios e Elementos de Jogos na Promoção de Engajamento em Contextos de Telerreabilitação de Pacientes
-6. A Distributed Exergame for Telerehabilitation: An Engaging Alternative to Improve Patients’ Quality of Life
-7. Jogos Digitais e Engajamento na Reabilitação de Pacientes: Uma Revisão Sistemática da Literatura
-8. Exergame com Cicloergômetro para a Reabilitação de Pacientes em Tempos de COVID-19
+1. [1º lugar no Concurso de Trabalhos de Iniciação Científica do Simpósio Brasileiro de Computação Aplicada à Saúde (CTIC-SBCAS 2023)](https://sol.sbc.org.br/index.php/sbcas_estendido/article/view/25330)
+2. [19º Congresso de Pesquisa, Ensino e Extensão (CONPEEX) - #350](https://anaisconpeex.ciar.ufg.br/edicoes/19/index.html)
+3. [Avaliação de um jogo digital para a telerreabilitação de pacientes - SEB](https://zenodo.org/record/7492216)
+5. [A Serious Games and Game Elements Based Approach for Patient Telerehabilitation Contexts](https://sol.sbc.org.br/journals/index.php/jis/article/view/2679)
+6. Distributed exergame with cycle ergometer for patient rehabilitation and engagement generation at telerehabilitation contexts
+7. Jogos Sérios e Elementos de Jogos na Promoção de Engajamento em Contextos de Telerreabilitação de Pacientes
+8. A Distributed Exergame for Telerehabilitation: An Engaging Alternative to Improve Patients’ Quality of Life
+9. Jogos Digitais e Engajamento na Reabilitação de Pacientes: Uma Revisão Sistemática da Literatura
+10. Exergame com Cicloergômetro para a Reabilitação de Pacientes em Tempos de COVID-19
